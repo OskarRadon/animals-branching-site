@@ -6,6 +6,6 @@ $(document).ready(function() {
   } else if (answer === "snakes") {
       $("#snakes").show();
     } else {
-        $("#snakes").show();
+        $("#insects").show();
       }
 });
